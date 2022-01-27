@@ -1,0 +1,131 @@
+{
+  "Products": [
+    {
+      "pid": 1,
+      "pname": "Kraasa",
+      "price": 345,
+      "quanity": 4,
+      "images": "kraasa.webp"
+    },
+    {
+      "pid": 2,
+      "pname": "T-shirts",
+      "price": 235,
+      "quanity": 4,
+      "images": "p1.jpg"
+    },
+    {
+      "pid": 3,
+      "pname": "Casio",
+      "price": 234,
+      "quanity": 4,
+      "images": "casio.jpg"
+    },
+    {
+      "pid": 4,
+      "pname": "Symbol",
+      "price": 205,
+      "quanity": 4,
+      "images": "symbol.jpg"
+    },
+    {
+      "pid": 5,
+      "pname": "watch",
+      "price": 245,
+      "quanity": 4,
+      "images": "watch.jpg"
+    },
+    {
+      "pid": 6,
+      "pname": "T-SHirts",
+      "price": 2345,
+      "quanity": 4,
+      "images": "p1.jpg"
+    },
+    {
+      "pid": 7,
+      "pname": "Puma",
+      "price": 445,
+      "quanity": 4,
+      "images": "shoe.webp"
+    },
+    {
+      "pid": 8,
+      "pname": "Kraasa",
+      "price": 225,
+      "quanity": 4,
+      "images": "kraasa.webp"
+    },
+    {
+      "pid": 9,
+      "pname": "Language",
+      "price": 4345,
+      "quanity": 4,
+      "images": "laugag.jpg"
+    },
+    {
+      "pid": 10,
+      "pname": "casio",
+      "price": 145,
+      "quanity": 4,
+      "images": "casio.jpg"
+    }
+  ],
+  "Courses": [
+    {
+      "id": 11,
+      "course": "React",
+      "description": "React is a library for building composable user interfaces. ",
+      "price": 550,
+      "images": "raect.png"
+    },
+    {
+      "id": 12,
+      "course": "Java",
+      "description": "Java is an object-oriented programming language .",
+      "price": 650,
+      "images": "java.jpg"
+    },
+    {
+      "id": 13,
+      "course": "C++",
+      "description": "C++ is a statically typed, compiled, general-purpose, case-sensitive,",
+      "price": 450,
+      "images": "c++.jpg"
+    },
+    {
+      "id": 14,
+      "course": "C",
+      "description": "C is a high-level and general-purpose programming language. ",
+      "price": 450,
+      "images": "c.jpg"
+    },
+    {
+      "id": 15,
+      "course": "PYTHON",
+      "description": "Python is an interpreted high-level general-purpose programming language. ",
+      "price": 450,
+      "images": "python.jpg"
+    }
+  ],
+  "Registration": [
+    {
+      "id": 1,
+      "name": "Sujit",
+      "email": "sujit@gmail.com",
+      "age": 23,
+      "contact": 7865987654,
+      "city": "Nashik",
+      "course": "Java"
+    },
+    {
+      "name": "Rajan Dahake",
+      "email": "rajan@gmail.com",
+      "age": "22",
+      "city": "Pune, Maharashtra",
+      "contact": "7689786543",
+      "id": 2,
+      "course": ""
+    }
+  ]
+}
